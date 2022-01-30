@@ -4,3 +4,4 @@ AndreuM
 (B) Modificació 01 Main AndreuM
 (C) Benvinguda a la branca 02 Andreu02
 (D) Modificació 02 Main AndreuM
+(F) Afegim imatge a branca02
